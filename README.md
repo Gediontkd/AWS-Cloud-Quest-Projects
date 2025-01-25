@@ -52,8 +52,9 @@ As you work on the challenges, you can use the provided solutions as a reference
 AWS Cloud Quest is a fun and engaging way to learn AWS Cloud skills, and this repository will help you master the Solutions Architect role. We hope you enjoy playing the game and using this repository, and we welcome your feedback and contributions.
 
 <p align="middle">
-  <a href="https://www.credly.com/badges/8c590962-04a7-4a04-9777-a513bf617788/public_url"><img src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" ></a>
-  <a href=" https://www.credly.com/badges/93259c26-48db-4df0-8cd3-21dab587f1a0/public_url"><img src="https://images.credly.com/size/340x340/images/9e9e7ef7-384f-4636-8743-1b89a68fb46b/image.png" ></a>
+  <a href="https://www.credly.com/badges/ae4a93c9-aa9a-420b-a286-ada076069228/public_url"><img src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" ></a>
+  <a href="https://www.credly.com/badges/f81618cc-2d8e-45fa-b2d6-6bd076279956/public_url"><img src="https://images.credly.com/size/340x340/images/9e9e7ef7-384f-4636-8743-1b89a68fb46b/image.png" ></a>
+  <a href="https://www.credly.com/badges/aae1aa02-769f-473a-b607-2f29da692f1a/public_url"><img src="https://images.credly.com/images/9a2fd02b-52ab-448d-9d19-fd9b68efe1f6/image.png" ></a>
 </p>
 
 ## Contributors
