@@ -42,4 +42,4 @@ AWS Cloud Quest is a fun and engaging way to learn AWS Cloud skills, and this re
 ## Contributors
 
 [Gedion Daniel](https://gediondaniel.dev/)
-[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/gedion-daniel-760ba6280/)
+[LinkedIn](https://www.linkedin.com/in/gedion-daniel-760ba6280/)
