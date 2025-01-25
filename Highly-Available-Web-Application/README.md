@@ -1,4 +1,8 @@
 # Build Highly Available Web Application on AWS
+
+## Project Source
+This project was developed as part of the AWS Cloud Quest: Solutions Architect learning path (https://explore.skillbuilder.aws/learn/courses/7636/cloud-quest). AWS Cloud Quest provides hands-on experience in architecting cloud solutions through real-world scenarios. This implementation demonstrates the practical application of AWS best practices for creating highly available web applications.
+
 ## Project Description:
 
 The infrastructure implements a fault-tolerant web application that automatically scales based on demand. By leveraging AWS's global infrastructure and services, the application maintains high availability and optimal performance under varying load conditions.
