@@ -31,7 +31,7 @@ In AWS Cloud Quest, you choose your role from six options: Cloud Practitioner, S
 As a Solutions Architect, you will dive into a broad set of AWS services and build secure, fault-tolerant, and highly available AWS solutions. This role is ideal for those who want to learn how to design and deploy scalable, reliable, and cost-effective applications on AWS.
 
 <p align="center">
-  <img src="./Images/Screenshot 2025-01-25 222148.png" alt="" style="display: block; margin: auto;" />
+  <img src="./Images/Screenshot 2025-01-25 191408.png" alt="" style="display: block; margin: auto;" />
 </p>
 
 ## 📑  About this Repository
