@@ -41,7 +41,5 @@ AWS Cloud Quest is a fun and engaging way to learn AWS Cloud skills, and this re
 
 ## Contributors
 
-[Daniele Bocchino](https://danielebocchino.github.io/)
-
-[![GitHub Followers](https://img.shields.io/github/followers/DanieleBocchino?style=social)](https://github.com/DanieleBocchino)  
-[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/daniele-bocchino-aa602a20b/)
+[Gedion Daniel](https://gediondaniel.dev/)
+[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/gedion-daniel-760ba6280/)
