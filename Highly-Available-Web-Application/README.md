@@ -1,4 +1,4 @@
-# Highly Available Web Application on AWS
+# Build Highly Available Web Application on AWS
 ## Overview
 
 The infrastructure implements a fault-tolerant web application that automatically scales based on demand. By leveraging AWS's global infrastructure and services, the application maintains high availability and optimal performance under varying load conditions.
@@ -6,7 +6,7 @@ The infrastructure implements a fault-tolerant web application that automaticall
 ## Architecture Diagram
 
 <p align="center">
-  <img src="./img/1.png" alt="" style="display: block; margin: auto;" />
+  <img src="../Images/project-1-architecture-diagram.jpeg" alt="" style="display: block; margin: auto;" />
 </p>
 
 ## AWS Services
@@ -28,31 +28,9 @@ The infrastructure utilizes the following AWS services:
 - Health monitoring and automated instance replacement
 - Cost optimization through dynamic resource allocation
 
-## Implementation Results
-
-[Insert output screenshots]
-
-## Prerequisites
-
-- AWS Account with appropriate permissions
-- Basic understanding of AWS services
-- AWS CLI configured with necessary credentials
-
 ## Deployment Steps
 
 1. Configure Auto Scaling Group with Application Load Balancer
 2. Set up Load Balancer health checks
 3. Enable multi-availability zone deployment
 4. Configure CloudWatch monitoring
-
-## Contributing
-
-Contributions are welcome. Please feel free to submit a Pull Request.
-
-## License
-
-[Insert your license information]
-
-## Contact
-
-[Your contact information]
