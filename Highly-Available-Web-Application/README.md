@@ -1,5 +1,5 @@
 # Build Highly Available Web Application on AWS
-## Overview
+## Project Description:
 
 The infrastructure implements a fault-tolerant web application that automatically scales based on demand. By leveraging AWS's global infrastructure and services, the application maintains high availability and optimal performance under varying load conditions.
 
