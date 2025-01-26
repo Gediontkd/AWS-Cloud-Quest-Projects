@@ -3,7 +3,7 @@
 AWS Cloud Quest, the role-playing game designed to help you build practical AWS Cloud skills. As a Solutions Architect, your goal is to dive into a broad set of AWS services and build secure, fault-tolerant, and highly available AWS solutions. This is a collection of challenges, solutions, and tips for the AWS Cloud Quest game, the only role-playing game designed to help you build practical AWS Cloud skills.
 
 <p align="center">
-  <img src="utils/img/aws.png" alt="" style="display: block; margin: auto;" />
+  <img src="utils/img/aws.png" alt="" style="display: block; margin: auto; width: 50%;" />
 </p>
 
 
@@ -22,7 +22,7 @@ This repository is a resource for anyone who wants to improve their Solutions Ar
 In addition, this repository includes a set of tips and best practices for Solutions Architects, as well as links to additional resources and documentation. Whether you are new to AWS or an experienced Solutions Architect, this repository will help you sharpen your skills and prepare for the AWS Certified exam.
 
 <p align="center">
-  <img src="utils/img/my_character.png" alt="" style="display: block; margin: auto;" />
+  <img src="./Images/Screenshot 2025-01-26 005745.png" alt="" style="display: block; margin: auto;" />
 </p>
 
 ## 🧑🏻‍💻 How to Use this Repository
