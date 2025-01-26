@@ -31,7 +31,7 @@ To get started with AWS Cloud Quest Challenge Repository, you should first clone
 As you work on the challenges, you can use the provided solutions as a reference and compare your approach with the recommended best practices. You can also contribute to the repository by submitting new challenges or improvements to existing ones.
 
 ## 🏅 Certificates 
-AWS Cloud Quest is a fun and engaging way to learn AWS Cloud skills, and this repository will help you master the Solutions Architect role. We hope you enjoy playing the game and using this repository, and we welcome your feedback and contributions.
+AWS Cloud Quest is a fun and engaging way to learn AWS Cloud skills, and this repository will help you master the Solutions Architect role. I hope you enjoy playing the game and using this repository, and we welcome your feedback and contributions.
 
 <p align="middle">
   <a href="https://www.credly.com/badges/ae4a93c9-aa9a-420b-a286-ada076069228/public_url"><img src="https://images.credly.com/size/280x280/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" ></a>
