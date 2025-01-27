@@ -61,6 +61,7 @@ This project is broken down into the following steps:
 
 This project demonstrates how to analyze and secure network traffic using AWS services. By leveraging VPC Flow Logs, Amazon S3, and Network ACLs, you can proactively detect and block traffic from malicious IP addresses, enhancing the overall security of your AWS environment. This project is part of the AWS Cloud Quest learning path, providing hands-on experience with AWS security services.
 
----
+## Contributors
 
-Let me know if you'd like any more tweaks!
+[Gedion Daniel](https://gediondaniel.dev/)
+[LinkedIn](https://www.linkedin.com/in/gedion-daniel-760ba6280/)
