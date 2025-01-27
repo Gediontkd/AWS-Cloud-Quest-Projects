@@ -5,7 +5,7 @@
 This project focuses on analyzing network traffic and enhancing security by detecting and blocking traffic from specific IP addresses. It leverages AWS services such as Amazon VPC Flow Logs, Amazon S3, and Network Access Control Lists (NACLs) to identify and deny unauthorized access.
 
 <p align="center">
-  <img src="../../Images/project-3-architecture-diagram.png" alt="" style="display: block; margin: auto;" />
+  <img src="../../Images/project-3-architecture-diagram.jpeg" alt="" style="display: block; margin: auto;" />
 </p>
 
 ## Table of Contents
