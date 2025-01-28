@@ -55,10 +55,6 @@ Assign the Aurora Serverless cluster as a resource by using the tag "Backup-DIY"
 ## Conclusion
 In conclusion, backing up your data is essential to ensure its safety and continuity in the event of an unexpected event. AWS provides multiple solutions for backing up your data, including creating a custom backup vault, configuring automated backup plans, and using tags to manage resources. With the knowledge gained from this guide, you can now confidently create and manage backup solutions for your AWS resources, ensuring that your data is always protected and available. Remember to regularly review and test your backup plans to ensure their effectiveness and make any necessary adjustments.
 
-<p align="center">
-  <img src="./img/5.png" alt="" style="display: block; margin: auto;" />
-</p>
-
 ## Contributors
 
 [Gedion Daniel](https://gediondaniel.dev/)
