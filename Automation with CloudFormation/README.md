@@ -7,6 +7,10 @@
 
 This section covers how to create a stack using AWS CloudFormation. In this demonstration, two stacks are created using a sample template. The first stack is created using the tutorial template provided, while the second stack is created using a modified version of the same template.
 
+<p align="center">
+  <img src="../Images/project-4-architecture-diagram.jpeg" alt="" style="display: block; margin: auto;" />
+</p>
+
 ## Table of Contents
 
 - [Requirements](#requirements)
