@@ -77,10 +77,6 @@ In this step, you will reconfigure a CloudFront distribution to use an Amazon S3
 ## Conclusion
 By completing this AWS CloudFront quest, you will have learned how to set up a content delivery network using Amazon CloudFront and how to configure an Amazon EC2 instance or an Amazon S3 hosted website as an origin for a CloudFront distribution. You will also know how to reconfigure a CloudFront distribution to use an Amazon S3 website as the origin with index.html as the main page.
 
-<p align="center">
-  <img src="./img/6.png" alt="" style="display: block; margin: auto;" />
-</p>
-
 ## Contributors
 
 [Gedion Daniel](https://gediondaniel.dev/)
