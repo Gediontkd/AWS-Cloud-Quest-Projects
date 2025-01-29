@@ -9,7 +9,7 @@
 This AWS Quest will guide you through creating a Docker image for an application, creating an ECR repository and pushing the Docker image to it, and deploying the application with ECS and Fargate using the image from Amazon ECR. You will also deploy a second application called my_second_app using Fargate by using the image from Amazon ECR and validate access to the second application.
 
 <p align="center">
-  <img src="./img/1.png" alt="" style="display: block; margin: auto;" />
+  <img src="../Images/project-6-architecture-diagram.jpeg" alt="" style="display: block; margin: auto;" />
 </p>
 
 ## Table of Contents
