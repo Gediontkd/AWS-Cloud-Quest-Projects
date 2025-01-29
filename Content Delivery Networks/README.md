@@ -9,7 +9,7 @@
 
 This AWS CloudFront quest is designed to help you learn how to set up a Content Delivery Network (CDN) using Amazon CloudFront. By the end of this quest, you will be able to configure an Amazon EC2 instance or an S3 Hosted website as an origin for a CloudFront distribution.
 <p align="center">
-  <img src="./img/1.png" alt="" style="display: block; margin: auto;" />
+  <img src="../Images/project-7-architecture-diagram.jpeg" alt="" style="display: block; margin: auto;" />
 </p>
 
 
