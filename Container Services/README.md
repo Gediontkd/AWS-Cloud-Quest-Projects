@@ -135,7 +135,7 @@ The final step is to deploy the second application called my_second_app using Fa
 
 ## Conclusion
 
-The Decoupling Application quest of AWS is a valuable resource for developers looking to build highly scalable and decoupled applications. By learning how to create Amazon SQS queues, SNS topics, and subscriptions, developers can build resilient and fault-tolerant systems that can scale to meet increasing demand. The skills learned in this quest can be applied to a wide variety of use cases, from simple message queuing systems to complex distributed applications. With the knowledge gained from this quest, developers can create efficient and reliable applications that can adapt to changing business needs and user demands.
+The Container Services quest demonstrates how to effectively work with Docker containers in AWS, utilizing ECR for container registry, ECS with Fargate for container orchestration, and EC2 with Session Manager for development environment. Through this quest, you'll learn essential skills for containerizing applications and managing them in a production environment. These skills are valuable for building modern, scalable applications in AWS.
 
 ## Contributors
 
