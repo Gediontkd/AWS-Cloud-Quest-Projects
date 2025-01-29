@@ -4,8 +4,7 @@
 [![ECS](https://img.shields.io/badge/AWS_ECS-100000?style=flat&logo=amazonaws&logoColor=white&labelColor=494949&color=FF7300)](https://aws.amazon.com/ecs/)
 [![ECR](https://img.shields.io/badge/AWS_ECR-100000?style=flat&logo=amazonaws&logoColor=white&labelColor=494949&color=FF7300)](https://aws.amazon.com/ecr/)
 [![Fargate](https://img.shields.io/badge/AWS_Fargate-100000?style=flat&logo=amazonaws&logoColor=white&labelColor=494949&color=FF7300)](https://aws.amazon.com/fargate/)
-[![Cloud9](https://img.shields.io/badge/AWS_Cloud9-100000?style=flat&logo=amazonaws&logoColor=white&labelColor=494949&color=FF7300)](https://aws.amazon.com/cloud9/)
-
+[![EC2](https://img.shields.io/badge/Amazon_EC2-100000?style=flat&logo=amazonaws&logoColor=white&labelColor=494949&color=FF7300)](https://aws.amazon.com/ec2/)
 
 This AWS Quest will guide you through creating a Docker image for an application, creating an ECR repository and pushing the Docker image to it, and deploying the application with ECS and Fargate using the image from Amazon ECR. You will also deploy a second application called my_second_app using Fargate by using the image from Amazon ECR and validate access to the second application.
 
@@ -27,30 +26,25 @@ To complete this quest, you will need an AWS account with access to the followin
 - Amazon ECR
 - Amazon ECS
 - Amazon Fargate
-- Amazon Cloud9
+- Amazon EC2 with Session Manager
 
 ## Steps
 
-This quest consists of the following tasks :
-
-- Create an Amazon SQS queue
-- Create an Amazon SNS topic
-- Subscribe the Amazon SQS queue to the Amazon SNS topic
-- Create an additional SQS queue and subscribe it to your existing SNS topic
+This quest consists of the following tasks:
 
 ### Step 1: Unzip Docker Image
 
-The first step is to create an Amazon SNS topic. SNS is a fully managed pub/sub messaging service that enables the decoupling of microservices and distributed systems. Follow these steps:
+The first step is to prepare the Docker environment. Follow these steps:
 
-1. Open the Amazon Cloud9
-2. Upload lab_files.zip to the Cloud9 environment.
+1. Connect to your EC2 instance using Session Manager
+2. Upload lab_files.zip to the EC2 instance
 3. Unzip the file using the following command:
 
 ```bash
 unzip lab_files.zip
 ```
 
-3. install docket image using the following command:
+4. Install Docker image using the following command:
 
 ```bash
 /install_scripts/install_docker.sh
@@ -71,7 +65,6 @@ account=$(aws sts get-caller-identity --query Account --output text)
 
 fullname="${account}.dkr.ecr.${region}.amazonaws.com/${repo_name}:latest"
 ```
-
 - To create an Amazon ECR repository, run:
 
 ```bash
@@ -140,19 +133,9 @@ The final step is to deploy the second application called my_second_app using Fa
   <img src="./img/6.png" alt="" style="display: block; margin: auto;" />
 </p>
 
-
-
-
-
-
-
 ## Conclusion
 
 The Decoupling Application quest of AWS is a valuable resource for developers looking to build highly scalable and decoupled applications. By learning how to create Amazon SQS queues, SNS topics, and subscriptions, developers can build resilient and fault-tolerant systems that can scale to meet increasing demand. The skills learned in this quest can be applied to a wide variety of use cases, from simple message queuing systems to complex distributed applications. With the knowledge gained from this quest, developers can create efficient and reliable applications that can adapt to changing business needs and user demands.
-
-<p align="center">
-  <img src="./img/7.png" alt="" style="display: block; margin: auto;" />
-</p>
 
 ## Contributors
 
