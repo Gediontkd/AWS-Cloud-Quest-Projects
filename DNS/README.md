@@ -6,6 +6,11 @@
 [![S3](https://img.shields.io/badge/AWS_Quicksight-100000?style=flat&logo=AmazonS3&logoColor=white&labelColor=494949&color=569A31)](https://aws.amazon.com/s3/)
 [![Postgres](https://img.shields.io/badge/PosgreSQL-100000?style=flat&logo=postgresql&logoColor=white&labelColor=494949&color=4169E1)](https://aws.amazon.com/quicksight/)
 
+## Project Source
+This project was developed as part of the AWS Cloud Quest: Solutions Architect learning path (https://explore.skillbuilder.aws/learn/courses/7636/cloud-quest). AWS Cloud Quest provides hands-on experience in architecting cloud solutions through real-world scenarios.
+
+## Project Description:
+
 This quest is designed to demonstrate how to create a private hosted zone for your VPC server domain names using Amazon Route 53. It also covers how to attach A records and CNAME records to your local domain name.
 ## Table of Contents
 
