@@ -6,6 +6,10 @@
 [![EC2](https://img.shields.io/badge/AWS_EC2-100000?style=flat&logo=amazonec2&logoColor=white&labelColor=494949&color=FF7300)](https://aws.amazon.com/cloudwatch/)
 [![S3](https://img.shields.io/badge/AWS_S3-100000?style=flat&logo=amazons3&logoColor=white&labelColor=494949&color=FF7300)](https://aws.amazon.com/cloudwatch/)
 
+## Project Source
+This project was developed as part of the AWS Cloud Quest: Solutions Architect learning path (https://explore.skillbuilder.aws/learn/courses/7636/cloud-quest). AWS Cloud Quest provides hands-on experience in architecting cloud solutions through real-world scenarios.
+
+## Project Description:
 
 This AWS CloudFront quest is designed to help you learn how to set up a Content Delivery Network (CDN) using Amazon CloudFront. By the end of this quest, you will be able to configure an Amazon EC2 instance or an S3 Hosted website as an origin for a CloudFront distribution.
 <p align="center">
