@@ -8,6 +8,11 @@
 [![KMS](https://img.shields.io/badge/AWS_KMS-100000?style=flat&logo=amazonaws&logoColor=white&labelColor=494949&color=FF7300)](https://aws.amazon.com/kms/)
 [![EBS](https://img.shields.io/badge/AWS_EBS-100000?style=flat&logo=amazonaws&logoColor=white&labelColor=494949&color=FF7300)](https://aws.amazon.com/ebs/)
 
+## Project Source
+This project was developed as part of the AWS Cloud Quest: Solutions Architect learning path (https://explore.skillbuilder.aws/learn/courses/7636/cloud-quest). AWS Cloud Quest provides hands-on experience in architecting cloud solutions through real-world scenarios.
+
+## Project Description:
+
 This repository contains scripts and configuration files for backing up data on AWS using various services such as Amazon EBS volumes and Aurora Serverless clustering.
 
 <p align="center">
