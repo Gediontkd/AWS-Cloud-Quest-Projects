@@ -5,6 +5,10 @@
 [![SNS](https://img.shields.io/badge/AWS_SNS-100000?style=flat&logo=amazonsqs&logoColor=white&labelColor=494949&color=FF7300)](https://aws.amazon.com/sns/)
 [![SQS](https://img.shields.io/badge/AWS_SQS-100000?style=flat&logo=amazonsqs&logoColor=white&labelColor=494949&color=FF7300)](https://aws.amazon.com/sqs/)
 
+## Project Source
+This project was developed as part of the AWS Cloud Quest: Solutions Architect learning path (https://explore.skillbuilder.aws/learn/courses/7636/cloud-quest). AWS Cloud Quest provides hands-on experience in architecting cloud solutions through real-world scenarios.
+
+## Project Description:
 
 In this AWS quest, you will learn how to decouple your application using Amazon Simple Queue Service (SQS) and Amazon Simple Notification Service (SNS).
 <p align="center">
