@@ -6,6 +6,11 @@
 [![Fargate](https://img.shields.io/badge/AWS_Fargate-100000?style=flat&logo=amazonaws&logoColor=white&labelColor=494949&color=FF7300)](https://aws.amazon.com/fargate/)
 [![EC2](https://img.shields.io/badge/Amazon_EC2-100000?style=flat&logo=amazonaws&logoColor=white&labelColor=494949&color=FF7300)](https://aws.amazon.com/ec2/)
 
+## Project Source
+This project was developed as part of the AWS Cloud Quest: Solutions Architect learning path (https://explore.skillbuilder.aws/learn/courses/7636/cloud-quest). AWS Cloud Quest provides hands-on experience in architecting cloud solutions through real-world scenarios.
+
+## Project Description:
+
 This AWS Quest will guide you through creating a Docker image for an application, creating an ECR repository and pushing the Docker image to it, and deploying the application with ECS and Fargate using the image from Amazon ECR. You will also deploy a second application called my_second_app using Fargate by using the image from Amazon ECR and validate access to the second application.
 
 <p align="center">
