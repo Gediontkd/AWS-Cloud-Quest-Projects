@@ -6,6 +6,10 @@
 [![EC2](https://img.shields.io/badge/AWS_EC2-100000?style=flat&logo=AmazonEC2&logoColor=white&labelColor=494949&color=527FFF)](https://aws.amazon.com/ec2/)
 [![VPC](https://img.shields.io/badge/AWS_VPC-100000?style=flat&logo=AmazonVPC&logoColor=white&labelColor=494949&color=569A31)](https://aws.amazon.com/vpc/)
 
+## Project Source
+This project was developed as part of the AWS Cloud Quest: Solutions Architect learning path (https://explore.skillbuilder.aws/learn/courses/7636/cloud-quest). AWS Cloud Quest provides hands-on experience in architecting cloud solutions through real-world scenarios.
+
+## Project Description:
 
 This quest will walk you through the steps of deploying a RESTful API using AWS Lambda and API Gateway. We will create a Lambda function that will be invoked by API Gateway, and configure API Gateway to serve our API.
 
@@ -26,7 +30,7 @@ To complete this quest, you will need an AWS account with access to the followin
 - Amazon Lambda Function
 - Amazon API Gateway
 
-##Steps
+## Steps
 ### Step 1: Creating a Lambda Function
 1. Log in to your AWS Management Console.
 2. From the list of services, select Lambda under the Compute section.
