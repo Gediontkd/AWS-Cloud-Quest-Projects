@@ -4,6 +4,11 @@
 [![AWS](https://img.shields.io/badge/AWS-100000?style=flat&logo=amazon&logoColor=FFFFFF&labelColor=5C5C5C&color=FF7300)](https://docs.aws.amazon.com/quicksight/latest/user/signing-up.html)
 [![Lambda](https://img.shields.io/badge/AWS_Lambda-100000?style=flat&logo=drone&logoColor=white&labelColor=494949&color=ED1C24)](https://aws.amazon.com/lambda/)
 
+## Project Source
+This project was developed as part of the AWS Cloud Quest: Solutions Architect learning path (https://explore.skillbuilder.aws/learn/courses/7636/cloud-quest). AWS Cloud Quest provides hands-on experience in architecting cloud solutions through real-world scenarios.
+
+## Project Description:
+
 This lab is designed to introduce you to the concept of serverless computing and AWS Lambda. You will learn how to develop a lambda function using simple code.
 
 ## Table of Contents
