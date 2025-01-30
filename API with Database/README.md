@@ -7,7 +7,7 @@
 [![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=amazonlambda&logoColor=white&labelColor=494949&color=FF9900)](https://aws.amazon.com/lambda/)
 
 ## Project Source
-This project was developed as part of the AWS Cloud Quest: Solutions Architect learning path (https://explore.skillbuilder.aws/learn/courses/7636/cloud-quest). AWS Cloud Quest provides hands-on experience in architecting cloud solutions through real-world scenarios. This implementation demonstrates the practical application of AWS best practices for creating highly available web applications.
+This project was developed as part of the AWS Cloud Quest: Solutions Architect learning path (https://explore.skillbuilder.aws/learn/courses/7636/cloud-quest). AWS Cloud Quest provides hands-on experience in architecting cloud solutions through real-world scenarios.
 
 ## Project Description:
 
