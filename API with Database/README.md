@@ -35,7 +35,7 @@ To complete this quest, you will need an AWS account with access to the followin
 - Amazon API Gateway
 - Amazon DynamoDB
 
-##Steps
+## Steps
 ### Step 1: Creating an Amazon DynamoDB table
 Amazon DynamoDB is a fast and flexible NoSQL database service provided by AWS. Follow the steps below to create an Amazon DynamoDB table:
 
