@@ -12,6 +12,11 @@ This project was developed as part of the AWS Cloud Quest: Solutions Architect l
 ## Project Description:
 
 This quest is designed to demonstrate how to create a private hosted zone for your VPC server domain names using Amazon Route 53. It also covers how to attach A records and CNAME records to your local domain name.
+
+<p align="center">
+  <img src="../Images/project-8-architecture-diagram.jpeg" alt="" style="display: block; margin: auto;" />
+</p>
+
 ## Table of Contents
 
 - [Requirements](#requirements)
