@@ -1,6 +1,9 @@
 # Analyze Network Traffic
 
-## Overview
+## Project Source
+This project was developed as part of the AWS Cloud Quest: Solutions Architect learning path (https://explore.skillbuilder.aws/learn/courses/7636/cloud-quest). AWS Cloud Quest provides hands-on experience in architecting cloud solutions through real-world scenarios.
+
+## Project Description:
 
 This project focuses on analyzing network traffic and enhancing security by detecting and blocking traffic from specific IP addresses. It leverages AWS services such as Amazon VPC Flow Logs, Amazon S3, and Network Access Control Lists (NACLs) to identify and deny unauthorized access.
 
