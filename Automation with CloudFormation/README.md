@@ -4,6 +4,10 @@
 [![AWS](https://img.shields.io/badge/AWS-100000?style=flat&logo=amazon&logoColor=FFFFFF&labelColor=5C5C5C&color=FF7300)](https://docs.aws.amazon.com/quicksight/latest/user/signing-up.html)
 [![CloudFormation](https://img.shields.io/badge/AWS_CloudFormation-100000?style=flat&logo=amazonaws&logoColor=white&labelColor=494949&color=FF7300)](https://aws.amazon.com/cloudformation/)
 
+## Project Source
+This project was developed as part of the AWS Cloud Quest: Solutions Architect learning path (https://explore.skillbuilder.aws/learn/courses/7636/cloud-quest). AWS Cloud Quest provides hands-on experience in architecting cloud solutions through real-world scenarios.
+
+## Project Description:
 
 This section covers how to create a stack using AWS CloudFormation. In this demonstration, two stacks are created using a sample template. The first stack is created using the tutorial template provided, while the second stack is created using a modified version of the same template.
 
