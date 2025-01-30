@@ -5,7 +5,10 @@
 [![Kinesis Firehose](https://img.shields.io/badge/Kinesis_Firehose-FFA500?style=flat&logo=amazonaws&logoColor=white&labelColor=232F3E&color=FFA500)](https://aws.amazon.com/kinesis/firehose/)
 [![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazonaws&logoColor=white&labelColor=232F3E&color=569A31)](https://aws.amazon.com/s3/)
 [![Lambda](https://img.shields.io/badge/Lambda-FDDB33?style=flat&logo=amazonaws&logoColor=white&labelColor=232F3E&color=FDDB33)](https://aws.amazon.com/lambda/)
-## OVERVIEW
+## Project Source
+This project was developed as part of the AWS Cloud Quest: Solutions Architect learning path (https://explore.skillbuilder.aws/learn/courses/7636/cloud-quest). AWS Cloud Quest provides hands-on experience in architecting cloud solutions through real-world scenarios.
+
+## Project Description:
 
 This practice lab provides an overview of how to ingest and preprocess clickstream data using Amazon Kinesis Data Firehose, Amazon S3, AWS Lambda, and Amazon Kinesis Data Analytics. The lab objectives are as follows:
 
