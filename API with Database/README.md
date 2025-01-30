@@ -6,7 +6,10 @@
 [![DynamoDB](https://img.shields.io/badge/AWS_DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white&labelColor=494949&color=4053D6)](https://aws.amazon.com/dynamodb/)
 [![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=amazonlambda&logoColor=white&labelColor=494949&color=FF9900)](https://aws.amazon.com/lambda/)
 
+## Project Source
+This project was developed as part of the AWS Cloud Quest: Solutions Architect learning path (https://explore.skillbuilder.aws/learn/courses/7636/cloud-quest). AWS Cloud Quest provides hands-on experience in architecting cloud solutions through real-world scenarios. This implementation demonstrates the practical application of AWS best practices for creating highly available web applications.
 
+## Project Description:
 
 This project is aimed at providing a simple guide to creating a Restful API using Amazon API Gateway and DynamoDB. By the end of this project, you will be able to:
 
