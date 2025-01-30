@@ -5,6 +5,10 @@
 [![Cloud Watch](https://img.shields.io/badge/AWS_Cloud_Watch-100000?style=flat&logo=amazoncloudWatch&logoColor=white&labelColor=494949&color=ED1C24)](https://aws.amazon.com/cloudwatch/)
 [![EC2](https://img.shields.io/badge/AWS_EC2-100000?style=flat&logo=amazonec2&logoColor=white&labelColor=494949&color=FF7300)](https://aws.amazon.com/cloudwatch/)
 
+## Project Source
+This project was developed as part of the AWS Cloud Quest: Solutions Architect learning path (https://explore.skillbuilder.aws/learn/courses/7636/cloud-quest). AWS Cloud Quest provides hands-on experience in architecting cloud solutions through real-world scenarios.
+
+## Project Description:
 
 This repository contains information and code related to monitoring AWS resources using CloudWatch metrics, configuring CloudWatch alarms and actions, and setting up an Amazon CloudWatch dashboard.
 <p align="center">
