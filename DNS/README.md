@@ -27,22 +27,22 @@ To complete this quest, you will need an AWS account with access to the followin
 - Amazon VPC
 
 ## Steps
-###Step 1: Create a VPC
+### Step 1: Create a VPC
 Create a new VPC in the AWS Management Console. Make sure that you assign a CIDR block to your VPC and create at least one subnet.
 
-###Step 2: Create an EC2 Instance
+### Step 2: Create an EC2 Instance
 Launch a new EC2 instance in your VPC. This instance will be used to host your private DNS zone.
 
-###Step 3: Create a Private Hosted Zone
+### Step 3: Create a Private Hosted Zone
 Create a new private hosted zone in Amazon Route 53. Give it a name that matches the domain name of your server. For example, if your server's domain name is "example.com", name your hosted zone "example.com".
 
-###Step 4: Update VPC DNS Settings
+### Step 4: Update VPC DNS Settings
 Update the DNS settings for your VPC to use the private hosted zone that you just created. This will ensure that your VPC's DNS queries are resolved within the hosted zone.
 
-###Step 5: Attach A Records
+### Step 5: Attach A Records
 Create A records within your local domain name that point to your EC2 instance's private IP address. This will allow you to resolve your server's domain name to the EC2 instance within your VPC.
 
-###Step 6: Attach CNAME Records
+### Step 6: Attach CNAME Records
 Create CNAME records within your local domain name that point to other resources within your VPC. For example, you can create a CNAME record that points to a load balancer's DNS name.ConclusionBy completing this quest, you should have a better understanding of how to create a private hosted zone for your VPC server domain names using Amazon Route 53. You should also be familiar with how to attach A records and CNAME records to your local domain name.
 
 ## Conclusion
