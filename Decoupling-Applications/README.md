@@ -12,7 +12,7 @@ This project was developed as part of the AWS Cloud Quest: Solutions Architect l
 
 In this AWS quest, you will learn how to decouple your application using Amazon Simple Queue Service (SQS) and Amazon Simple Notification Service (SNS).
 <p align="center">
-  <img src="./img/1.png" alt="" style="display: block; margin: auto;" />
+  <img src="../Images/project-10-architecture-diagram.jpeg" alt="" style="display: block; margin: auto;" />
 </p>
 
 
@@ -26,9 +26,10 @@ In this AWS quest, you will learn how to decouple your application using Amazon 
 
 ## Requirements
 To complete this quest, you will need an AWS account with access to the following services:
-- Amazon CloudFront
 - Amazon EC2
 - Amazon S3
+- Amazon SQS
+- Amazon SNS
 
 ## Steps
 This quest consists of the following tasks :
