@@ -172,9 +172,6 @@ Finally, you will create an additional Amazon SQS queue and subscribe it to your
 
 ## Conclusion
 The Decoupling Application quest of AWS is a valuable resource for developers looking to build highly scalable and decoupled applications. By learning how to create Amazon SQS queues, SNS topics, and subscriptions, developers can build resilient and fault-tolerant systems that can scale to meet increasing demand. The skills learned in this quest can be applied to a wide variety of use cases, from simple message queuing systems to complex distributed applications. With the knowledge gained from this quest, developers can create efficient and reliable applications that can adapt to changing business needs and user demands.
-<p align="center">
-  <img src="./img/6.png" alt="" style="display: block; margin: auto;" />
-</p>
 
 ## Contributors
 
