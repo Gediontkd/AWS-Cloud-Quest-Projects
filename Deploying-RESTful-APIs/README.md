@@ -14,7 +14,7 @@ This project was developed as part of the AWS Cloud Quest: Solutions Architect l
 This quest will walk you through the steps of deploying a RESTful API using AWS Lambda and API Gateway. We will create a Lambda function that will be invoked by API Gateway, and configure API Gateway to serve our API.
 
 <p align="center">
-  <img src="./img/1.png" alt="" style="display: block; margin: auto;" />
+  <img src="../Images/project-11-architecture-diagram.jpeg" alt="" style="display: block; margin: auto;" />
 </p>
 
 ## Table of Contents
