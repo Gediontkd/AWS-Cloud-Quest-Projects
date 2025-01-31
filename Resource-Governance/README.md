@@ -13,7 +13,7 @@ This project was developed as part of the AWS Cloud Quest: Solutions Architect l
 
 This AWS Cloud Quest focuses on configuring AWS Config managed rules for S3 KMS encryption, tagged resources, and S3 bucket versioning. The following are the steps to complete this quest.
 <p align="center">
-  <img src="./img/1.png" alt="" style="display: block; margin: auto;" />
+  <img src="../Images/project-12-architecture-diagram.jpeg" alt="" style="display: block; margin: auto;" />
 </p>
 
 ## Table of Contents
@@ -76,10 +76,6 @@ By completing the above steps, you will have successfully configured AWS Config 
 
 ## Conclusion
 This AWS quest has taught us how to effectively govern our AWS resources by implementing several managed rules using AWS Config. By setting up rules for S3 KMS encryption, resource tagging, and S3 bucket versioning, we have increased the security and compliance of our resources while also ensuring that they are properly configured and easily managed. With AWS Config, we can easily monitor our resources and take action when necessary to maintain a secure and well-governed AWS environment.
-
-<p align="center">
-  <img src="./img/6.png" alt="" style="display: block; margin: auto;" />
-</p>
 
 ## Contributors
 
