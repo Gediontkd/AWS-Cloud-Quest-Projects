@@ -239,10 +239,6 @@ def response_payload(err, res=None):
 ## Conclusion
 Congratulations! You have successfully deployed a RESTful API using AWS Lambda and API Gateway. You can now add more resources and methods to your API, and customize your integration with Lambda.
 
-<p align="center">
-  <img src="./img/8.png" alt="" style="display: block; margin: auto;" />
-</p>
-
 ## Contributors
 
 [Gedion Daniel](https://gediondaniel.dev/)
