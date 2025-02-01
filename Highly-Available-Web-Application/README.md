@@ -38,3 +38,8 @@ The infrastructure utilizes the following AWS services:
 2. Set up Load Balancer health checks
 3. Enable multi-availability zone deployment
 4. Configure CloudWatch monitoring
+
+## Contributors
+
+[Gedion Daniel](https://gediondaniel.dev/)
+[LinkedIn](https://www.linkedin.com/in/gedion-daniel-760ba6280/)
