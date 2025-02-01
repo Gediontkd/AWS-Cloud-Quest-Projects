@@ -11,6 +11,10 @@ This project was developed as part of the AWS Cloud Quest: Solutions Architect l
 
 This lab is designed to introduce you to the concept of serverless computing and AWS Lambda. You will learn how to develop a lambda function using simple code.
 
+<p align="center">
+  <img src="../Images/project-14-architecture-diagram.jpeg" alt="" style="display: block; margin: auto;" />
+</p>
+
 ## Table of Contents
 
 - [Requirements](#requirements)
